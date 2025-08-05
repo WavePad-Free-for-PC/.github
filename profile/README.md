@@ -14,7 +14,7 @@
 
 <!-- Tool Preview (top) -->
 <p align="center">
-  <img src="https://images.sftcdn.net/images/t_app-cover-s,f_auto/p/f82f366e-96d2-11e6-b984-00163ed833e7/3352657873/wavepad-wavepad_screenshot.jpg" alt="WavePad Free Preview" width="800" />
+  <img src="https://windows-cdn.softpedia.com/screenshots/WavePad_20.png" alt="WavePad Free Preview" width="600" />
 </p>
 
 ---
